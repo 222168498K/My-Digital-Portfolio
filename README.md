@@ -31,7 +31,7 @@
 
 ## INTERVIEW SKILLS
 >### EVIDENCE
->![Portfolio Image](portfolio-photo.png)
+>![Interview Skills](https://github.com/222168498K/My-Digital-Portfolio/blob/6ff07455d98f61177367f2fa72342256b0f18e98/interview%20skills.png)
 >
 >### REFELCTION
 >**Situation:**  
