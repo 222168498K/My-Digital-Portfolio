@@ -12,7 +12,7 @@
 
 ## Business Communication
 >### EVIDENCE
-> 
+> ![Portfolio Image](portfolio-photo.png)
 >
 >### REFELCTION
 >**Situation:**  
@@ -31,7 +31,7 @@
 
 ## INTERVIEW SKILLS
 >### EVIDENCE
->
+>![Portfolio Image](portfolio-photo.png)
 >
 >### REFELCTION
 >**Situation:**  
@@ -69,7 +69,7 @@
 
 ## PROFESSIONAL NETWORKING
 >### EVIDENCE
->
+>![Portfolio Image](portfolio-photo.png)
 >
 >### REFLECTIONS
 >**Situation:**  
@@ -88,6 +88,7 @@
 
 ## WORKPLACE ETTIQUETTE
 >### EVIDENCE
+>![Portfolio Image](portfolio-photo.png)
 >
 >### REFLECTIONS
 >**Situation:**  
