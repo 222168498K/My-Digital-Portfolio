@@ -12,7 +12,7 @@
 
 ## Business Communication
 >### EVIDENCE
-> ![Portfolio Image](portfolio-photo.png)
+> ![Business Communication](https://github.com/222168498K/My-Digital-Portfolio/blob/67d3277c1107862f22cacd981022e48a75c81c8d/BusinessCom.png)
 >
 >### REFELCTION
 >**Situation:**  
