@@ -51,7 +51,7 @@
 ## MOCK INTERVIEW
 >### EVIDENCE
 >The mock interview was meant to simulate a real interview setup whereby the students would have a chance to use what they have learned in training. It challenged my verbal communication, self-presentation and capacity to remain calm in situations of pressure.
-> ( https://github.com/wil-it2025/cv-tutorial-222168498K/blob/5cb09a80da20690bc4b0010c1afa167340bd8e84/222168498MockInterview%20(1).mp4)
+> [Download demo video](https://github.com/222168498K/My-Digital-Portfolio/blob/d7cfc31929ce283ef14c56d69bdf4ecc1168a818/222168498MockInterview%20(1).mp4) 
 >
 >### REFLECTION
 >**Situation:**  
